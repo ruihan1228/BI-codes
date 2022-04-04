@@ -1,2 +1,2 @@
 # BI-codes
-My attempt on creating mini programs of basic concepts in Bioinformatics
+My attempts on recreating simplified mini programs of basic concepts in Bioinformatics.
